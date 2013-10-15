@@ -81,7 +81,7 @@ def stocks():
 	#tags=str(get_category_links('AAPL'))
 	#tags='<p> asd </p>'
 	return render_template('ticker.html',tick=stock_ls)
-	#return json.dumps(tags)
+	#return json.dumps(stock_ls)
 	
 #@app.route('/stocks',methods=['POST'])
 #def webs():
@@ -110,6 +110,6 @@ def link():
 if __name__ == "__main__":
     app.run()
 #print a['statuses'][0]['user']['statuses_count']
-#vi()
-#print stocks()
+#print vi()
+#print link()
     
