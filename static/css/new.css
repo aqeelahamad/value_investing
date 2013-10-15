@@ -1,0 +1,73 @@
+.container .tweets{
+padding: 20px 20px 20px 20px;
+margin: 20px 20px 20px 20px;
+border: 1px solid #C0C0C0;}
+
+.container .tweets .date{
+color: #C0C0C0;
+padding: 20px 20px 20px 500px;
+}
+
+.container .abt{
+margin-top: 70px;
+padding-left: 20px;
+padding-top: 5px;
+padding-bottom: 15px;
+float: center;
+background-color:#FAF0E6;
+width: 70%;
+margin-right: 20%;
+margin-left: 10%;
+}
+
+.container .lk1{
+width:40%;
+float: left;
+padding: 15px 15px 15px 15px;
+margin: 15px 15px 15px 15px;
+border: 1px solid #C0C0C0;
+overflow-y: scroll;}
+
+.container .lk2{
+width:40%;
+float: right;
+padding: 15px 15px 15px 15px;
+margin: 15px 15px 15px 15px;
+border: 1px solid #C0C0C0;
+overflow-y: scroll;}
+
+.container .title{
+padding-left: 20px;
+padding-top: 5px;
+padding-bottom: 15px;
+float: center;
+background-color:#FAF0E6;
+width: 70%;
+margin-right: 20%;
+margin-left: 10%;
+}
+
+.container .tck{
+padding: 20px 10px 30px 10px;
+height: 500px;
+overflow-y: scroll;
+border-top: 1px solid #C0C0C0;
+border-left: 1px solid #C0C0C0;
+}
+
+.container .tck .quote .sq{
+padding: 15px 15px 15px 15px;
+font-size: 14px;}
+
+.container .tck .quote input[type=submit] {
+  font-size: 8px;
+  background-color:#FFFFFF;
+  color:#0066CC;
+  width: 50px;
+  height: 15px;
+  border-color:#0066CC;
+}
+
+iframe{
+height: 600px;
+width :800px;}
